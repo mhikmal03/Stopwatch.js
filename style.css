@@ -52,3 +52,23 @@
     cursor: pointer;
     outline: none;
 }
+
+#startTimer:hover {
+    background-color: #0048ce;
+    color: white;
+    display: block;
+    
+}
+
+
+#pauseTimer:hover {
+    background-color: #0048ce;
+    color: white;
+    display: block;
+}
+
+#resetTimer:hover {
+    background-color: #0048ce;
+    color: white;
+    display: block;
+}
